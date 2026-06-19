@@ -55,7 +55,7 @@ Currently, I am focused on strengthening my backend development skills, with a s
 
 
 
-<p>
+<p align = "center">
   PRIMER AÑO
 </p>
 <p align="center">
@@ -72,7 +72,7 @@ Currently, I am focused on strengthening my backend development skills, with a s
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=TALLER-DE-PROGRAMACION-UNLP" />
   </a>
 </p>
-<p>
+<p align = "center">
   SEGUNDO AÑO
 </p>
 <p align="center">
