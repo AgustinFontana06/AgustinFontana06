@@ -55,9 +55,34 @@ Currently, I am focused on strengthening my backend development skills, with a s
 
 
 
-
+<p>
+  PRIMER AÑO
+</p>
+<p align="center">
+  <a href="https://github.com/AgustinFontana06/CADP-UNLP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=CADP-UNLP" />
+  </a>
+  <a href="https://github.com/AgustinFontana06/OC-UNLP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=OC-UNLP" />
+  </a>
+  <a href="https://github.com/AgustinFontana06/AC-UNLP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=AC-UNLP" />
+  </a>
+  <a href="https://github.com/AgustinFontana06/TALLER-DE-PROGRAMACION">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=TALLER-DE-PROGRAMACION-UNLP" />
+  </a>
+</p>
+<p>
+  SEGUNDO AÑO
+</p>
 <p align="center">
   <a href="https://github.com/AgustinFontana06/AYED-UNLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=AYED-UNLP" />
+  </a>
+  <a href="https://github.com/AgustinFontana06/FOD-UNLP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=FOD-UNLP" />
+  </a>
+  <a href="https://github.com/AgustinFontana06/.NET-UNLP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=.NET-UNLP" />
   </a>
 </p>
