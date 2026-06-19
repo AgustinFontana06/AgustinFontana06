@@ -60,7 +60,7 @@ Currently, I am focused on strengthening my backend development skills, with a s
 </p>
 <p align="center">
   <a href="https://github.com/AgustinFontana06/CADP-UNLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=CADP-UNLP&title_color=0000FF&text_color=#FFD700&bg_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=CADP-UNLP&title_color=FFD700&text_color=#FFFFFF&bg_color=0d1117" />
   </a>
   <a href="https://github.com/AgustinFontana06/OC-UNLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=OC-UNLP" />
