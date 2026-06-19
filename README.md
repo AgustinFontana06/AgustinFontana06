@@ -6,7 +6,9 @@
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" width="400">
 </p>
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> **About me**
+
 <p>
 I am a second-year Computer Science student at UNLP, Argentina. I am passionate about software development and continuously expanding my knowledge in computer science and programming.
 </p>
