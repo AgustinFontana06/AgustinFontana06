@@ -32,6 +32,7 @@ Currently, I am focused on strengthening my backend development skills, with a s
 🚀 My goal is to become a backend developer and continue growing as a software engineer by building useful, scalable, and high-quality applications.
 
 <hr>
+
 **My skills include**
 <h3 align="center">Languages</h3>
 <p>
