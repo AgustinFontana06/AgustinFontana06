@@ -48,6 +48,10 @@ Currently, I am focused on strengthening my backend development skills, with a s
 </p>
 
 ## **My repositories**
+
+
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
 <p align="center">
   <a href="https://github.com/AgustinFontana06/AYED-UNLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=AYED-UNLP" />
