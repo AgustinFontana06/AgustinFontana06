@@ -63,13 +63,13 @@ Currently, I am focused on strengthening my backend development skills, with a s
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=CADP-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
   <a href="https://github.com/AgustinFontana06/OC-UNLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=OC-UNLP" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=OC-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
   <a href="https://github.com/AgustinFontana06/AC-UNLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=AC-UNLP" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=AC-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
   <a href="https://github.com/AgustinFontana06/TALLER-DE-PROGRAMACION">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=TALLER-DE-PROGRAMACION-UNLP" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=TALLER-DE-PROGRAMACION-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
 </p>
 <p align = "center">
@@ -77,12 +77,12 @@ Currently, I am focused on strengthening my backend development skills, with a s
 </p>
 <p align="center">
   <a href="https://github.com/AgustinFontana06/AYED-UNLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=AYED-UNLP" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=AYED-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
   <a href="https://github.com/AgustinFontana06/FOD-UNLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=FOD-UNLP" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=FOD-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
   <a href="https://github.com/AgustinFontana06/.NET-UNLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=.NET-UNLP" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=.NET-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
 </p>
