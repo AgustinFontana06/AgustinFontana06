@@ -48,7 +48,7 @@ Currently, I am focused on strengthening my backend development skills, with a s
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"
-      alt="css3"/>
+      alt="c#"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
@@ -59,8 +59,8 @@ Currently, I am focused on strengthening my backend development skills, with a s
 <h3>Other Tools and Technologies</h3>
 <p>
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" 
+      alt="MySql"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
