@@ -16,7 +16,7 @@ I am a second-year Computer Science student at UNLP, Argentina. I am passionate 
 Currently, I am focused on strengthening my backend development skills, with a strong interest in technologies such as Java and .NET.
 </p>
 
-- 🌱 **I'm currently learning**
+-  **I'm currently learning**
   - Java
   - .NET
   - Data Structures and Algorithms
