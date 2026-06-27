@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> **About me**
 
 <p>
-Hi, I'm Agustín Fontana, a second-year Computer Science student at UNLP, Buenos Aires, Argentina. I graduated from EESTN, a technical secondary school in Temperley specialized in programming and computer science.
+I'm a second-year Computer Science student at UNLP, Buenos Aires, Argentina. I graduated from EESTN, a technical secondary school in Temperley specialized in programming and computer science.
 I'm passionate about backend development, building projects with technologies like .NET, C#, Entity Framework Core, and SQL databases. I enjoy working close to the server side: designing APIs, modeling data, and applying clean architecture patterns.
 I hold a B2 English certification (Cambridge First).
 </p>
@@ -40,7 +40,7 @@ I hold a B2 English certification (Cambridge First).
 
 
 <p align = "center">
-  PRIMER AÑO
+  FIRST YEAR
 </p>
 <p align="center">
   <a href="https://github.com/AgustinFontana06/CADP-UNLP">
@@ -57,7 +57,7 @@ I hold a B2 English certification (Cambridge First).
   </a>
 </p>
 <p align = "center">
-  SEGUNDO AÑO
+  SECOND YEAR
 </p>
 <p align="center">
   <a href="https://github.com/AgustinFontana06/AYED-UNLP">
