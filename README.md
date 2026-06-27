@@ -10,26 +10,10 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> **About me**
 
 <p>
-I am a second-year Computer Science student at UNLP, Argentina. I am passionate about software development and continuously expanding my knowledge in computer science and programming.
+Hi, I'm Agustín Fontana, a second-year Computer Science student at UNLP, Buenos Aires, Argentina. I graduated from EESTN, a technical secondary school in Temperley specialized in programming and computer science.
+I'm passionate about backend development, building projects with technologies like .NET, C#, Entity Framework Core, and SQL databases. I enjoy working close to the server side: designing APIs, modeling data, and applying clean architecture patterns.
+I hold a B2 English certification (Cambridge First).
 </p>
-
-<p>
-Currently, I am focused on strengthening my backend development skills, with a strong interest in technologies such as Java and .NET.
-</p>
-
--  **I'm currently learning**
-  - Java
-  - .NET
-  - Data Structures and Algorithms
-  - Database Design
-
--  I'm looking forward to collaborating on open-source projects.
-
--  Ask me about programming, algorithms, object-oriented programming, databases, or software development.
-
--  Outside of coding, I enjoy playing guitar, listening to music, and exploring new technologies.
-
-🚀 My goal is to become a backend developer and continue growing as a software engineer by building useful, scalable, and high-quality applications.
 
 ## **My skills include**
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
