@@ -44,7 +44,7 @@ I hold a B2 English certification (Cambridge First).
 </p>
 <p align="center">
   <a href="https://github.com/AgustinFontana06/CADP-UNLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=CADP-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" /> HOLA
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=CADP-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
   <a href="https://github.com/AgustinFontana06/OC-UNLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=OC-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
@@ -73,3 +73,8 @@ I hold a B2 English certification (Cambridge First).
 </p>
 
 ## **Projects**
+<p align="center">
+  <a href="https://github.com/AgustinFontana06/Seminario_de_lenguaje_.NET">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=Gestion-De-Expedientes&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
+  </a>
+</p>
