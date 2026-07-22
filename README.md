@@ -39,7 +39,7 @@ I hold a B2 English certification (Cambridge First).
 
 
 
-<p align = "center">
+<p align="center">
   FIRST YEAR
 </p>
 <p align="center">
@@ -52,11 +52,12 @@ I hold a B2 English certification (Cambridge First).
   <a href="https://github.com/AgustinFontana06/AC-UNLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=AC-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
-  <a href="https://github.com/AgustinFontana06/TALLER-DE-PROGRAMACION">
+  <a href="https://github.com/AgustinFontana06/TALLER-DE-PROGRAMACION-UNLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=TALLER-DE-PROGRAMACION-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
 </p>
-<p align = "center">
+
+<p align="center">
   SECOND YEAR
 </p>
 <p align="center">
@@ -67,6 +68,6 @@ I hold a B2 English certification (Cambridge First).
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=FOD-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
   <a href="https://github.com/AgustinFontana06/.NET-UNLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=.NET-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgustinFontana06&repo=%2ENET-UNLP&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=6B21A8" />
   </a>
 </p>
